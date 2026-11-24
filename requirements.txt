@@ -1,0 +1,9 @@
+# paper_rag — minimal runnable RAG pipeline
+# All models are off-the-shelf; nothing here is trained or tuned.
+torch>=2.2
+transformers>=4.45
+huggingface_hub>=0.25
+pyarrow>=14
+numpy>=1.26
+rank-bm25==0.2.2
+tqdm>=4.66

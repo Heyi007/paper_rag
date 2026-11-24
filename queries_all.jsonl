@@ -1,0 +1,30 @@
+{"qid": "q01", "question": "How does the Transformer architecture replace recurrence and convolution with self-attention?"}
+{"qid": "q02", "question": "Why does low-rank adaptation (LoRA) reduce the number of trainable parameters when fine-tuning large models?"}
+{"qid": "q03", "question": "How do diffusion models generate samples by learning to reverse a gradual noising process?"}
+{"qid": "q04", "question": "How is reinforcement learning from human feedback used to align large language models?"}
+{"qid": "q05", "question": "How does a mixture-of-experts layer route tokens and increase model capacity efficiently?"}
+{"qid": "q06", "question": "How do graph neural networks aggregate neighbor information for node classification?"}
+{"qid": "q07", "question": "How does knowledge distillation transfer knowledge from a large teacher model to a small student?"}
+{"qid": "q08", "question": "What contrastive objectives do self-supervised vision models such as SimCLR and MoCo optimize?"}
+{"qid": "q09", "question": "How do generative adversarial networks train a generator against a discriminator?"}
+{"qid": "q10", "question": "What are the practical differences between Adam and stochastic gradient descent with momentum?"}
+{"qid": "q11", "question": "How does batch normalization stabilize and accelerate deep network training?"}
+{"qid": "q12", "question": "How does dropout regularize neural networks and reduce overfitting?"}
+{"qid": "q13", "question": "How does neural architecture search automate the design of network architectures?"}
+{"qid": "q14", "question": "What privacy guarantees does federated learning provide when training across decentralized data?"}
+{"qid": "q15", "question": "How does DETR perform object detection without hand-designed anchor boxes?"}
+{"qid": "q16", "question": "How does semantic segmentation differ from object detection in terms of output representation?"}
+{"qid": "q17", "question": "How do encoder-decoder sequence-to-sequence models perform neural machine translation?"}
+{"qid": "q18", "question": "How do transformer-based models perform named entity recognition on text tokens?"}
+{"qid": "q19", "question": "How do collaborative filtering recommender systems learn from user-item interactions?"}
+{"qid": "q20", "question": "How are deep learning models used to detect anomalies in time series data?"}
+{"qid": "q21", "question": "How does post-training quantization reduce the memory footprint of neural networks?"}
+{"qid": "q22", "question": "What pruning criteria are used to remove unimportant weights from neural networks?"}
+{"qid": "q23", "question": "How can retrieval-augmented generation reduce hallucination in language models?"}
+{"qid": "q24", "question": "How does chain-of-thought prompting improve reasoning in large language models?"}
+{"qid": "q25", "question": "How do large language models generate and validate executable code?"}
+{"qid": "q26", "question": "How do vision-language models fuse image and text representations?"}
+{"qid": "q27", "question": "How does wav2vec 2.0 learn speech representations from unlabeled audio?"}
+{"qid": "q28", "question": "How do pointer networks learn to point at positions in the input sequence?"}
+{"qid": "q29", "question": "How does deep Q-learning combine neural networks with reinforcement learning control?"}
+{"qid": "q30", "question": "Why is proximal policy optimization considered a stable on-policy reinforcement learning algorithm?"}
